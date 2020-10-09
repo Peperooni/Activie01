@@ -1,0 +1,45 @@
+[
+    {
+        "Id": 1,
+        "Name": "Google",
+        "Url": "www.google.ca",
+        "Category": "Tech"
+    },
+    {
+        "Id": 2,
+        "Name": "LaPresse",
+        "Url": "www.lapresse.ca",
+        "Category": "News"
+    },
+    {
+        "Id": 3,
+        "Name": "Bing",
+        "Url": "www.bing.com",
+        "Category": "Search Engine"
+    },
+    {
+        "Id": 4,
+        "Name": "Facebook",
+        "Url": "www.facebook.com",
+        "Category": "Social Media"
+    },
+    {
+        "Id": 5,
+        "Name": "Apple",
+        "Url": "www.apple.ca",
+        "Category": "Tech"
+    },
+    {
+        "Id": 6,
+        "Name": "Youtube",
+        "Url": "www.youtube.com",
+        "Category": "Social Video"
+    },
+    {
+        "Id": 7,
+        "Name": "Youtube",
+        "Url": "www.youtube.com",
+        "Category": "Social Media"
+    }
+    
+]
